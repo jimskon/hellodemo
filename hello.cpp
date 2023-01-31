@@ -10,6 +10,9 @@ int main() {
 	for (int i=0; i< 10; i++) {
 		cout << "git";
 	}
+        for (int t=0; t< 16; t++) {
+	  cout << t << ":";
+	}
 	cout << endl;
 	cout << "github is for programmers!" << endl;
 	exit(0);
