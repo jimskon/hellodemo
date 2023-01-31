@@ -11,5 +11,6 @@ int main() {
 		cout << "git";
 	}
 	cout << endl;
+	cout << "github is for programmers!" << endl;
 	exit(0);
 }
