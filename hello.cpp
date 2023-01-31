@@ -12,5 +12,9 @@ int main() {
 	}
 	cout << endl;
 	cout << "github is for programmers!" << endl;
+	for (int i=0; i< 8; i++) {
+		cout << "hub";
+	}
+
 	exit(0);
 }
